@@ -1,0 +1,16 @@
+[
+{
+  "modid": "tm",
+  "name": "Test Mod",
+  "description": "On tente.",
+  "version": "1.0",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Djbapt"],
+  "credits": "The Forge and FML guys, for making this example (and me)",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,20 @@
+
+//ITEMS
+item.ruby.name=Ruby
+
+//BLOCKS
+tile.ruby_block.name=Block of Ruby
+tile.ruby_ore.name=Ruby Ore
+
+//TOOLS
+item.ruby_sword.name=Ruby Sword
+item.ruby_pickaxe.name=Ruby Pickaxe
+item.ruby_shovel.name=Ruby Shovel
+item.ruby_axe.name=Ruby Axe
+item.ruby_hoe.name=Ruby Hoe
+
+//ARMOR
+item.ruby_boots.name=Ruby Boots
+item.ruby_chestplate.name=Ruby Chestplate
+item.ruby_helmet.name=Ruby Helmet
+item.ruby_leggings.name=Ruby Leggings
